@@ -1,0 +1,10 @@
+[report]
+omit = 
+    */__pycache__/*
+    *.pyc
+    *venv/*
+    *.vscode/
+    */site-packages/*
+    __init__.py                   
+         
+    
