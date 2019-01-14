@@ -5,6 +5,7 @@ omit =
     *venv/*
     *.vscode/
     */site-packages/*
-    __init__.py                   
+    __init__.py 
+                      
          
     
